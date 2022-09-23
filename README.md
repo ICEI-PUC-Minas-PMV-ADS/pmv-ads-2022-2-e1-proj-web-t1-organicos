@@ -2,11 +2,11 @@
 
 ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-Desenvolvimento Web
+Desenvolvimento de Aplicação Web Front-End
 
 1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O presente projeto busca desenvolver um website com informações frequentemente atualizadas sobre os principais produtos orgânicos alimentícios produzidos em determinadas regiões.  Além disso, este website incluirá informações detalhadas sobre agricultura orgânica, agroecologia e sobre os problemas causados por uso de agrotóxicos.   
 
 ## Integrantes
 
