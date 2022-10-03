@@ -1,23 +1,24 @@
-# TÍTULO DO PROJETO
+# Plataforma de produdutos orgânicos alimentícios por Região
 
-`CURSO`
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-`DISCIPLINA`
+Desenvolvimento de Aplicação Web Front-End
 
-`SEMESTRE`
+1º Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O presente projeto busca desenvolver um website com informações frequentemente atualizadas sobre os principais produtos orgânicos alimentícios produzidos em determinadas regiões.  Além disso, este website incluirá informações detalhadas sobre agricultura orgânica, agroecologia e sobre os problemas causados por uso de agrotóxicos.   
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Hebert Paixão do Nascimento
+* Caio César Ferreira Florindo
+* Hélio Vieira Bernardes
+* Leticia Layane Pauli
+* Denian Cesar Soares Faria
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Cristina de Paiva
 
 ## Instruções de utilização
 
