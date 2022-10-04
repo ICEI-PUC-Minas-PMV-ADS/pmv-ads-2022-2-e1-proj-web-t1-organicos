@@ -3,7 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Nesta seção vamos detalhar as ferramentas que a equipe vem utilizando para a manutenção dos códigos e demais artefatos que estão sendo usados para a organização do time na execução das tarefas do projeto.
+
+## Relação de ambientes de trabalho
+Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub e Figma, e a relação dos ambientes está apresentada na tabela abaixo.
+
+|Ambiente     | Plataforma  |Link de acesso |
+|-------|-------------------------|----|
+| Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicossim> |
+| Design de Interfaces | Figma | <https://www.figma.com/file/AL18hLgkr8t7kHa3BGKWBq/Sus-Online?node-id=0%3A1> |
+| Gerenciamento do Projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online/projects/1> |
+| Comunicação e Reuniões | Microsoft Teams | <https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:x-1C6F33rd95TjwGJk7DnskcTGfOJJXue5s54HXySrY1@thread.tacv2&ctx=channel>|
 
 ## Controle de Versão
 
