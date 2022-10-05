@@ -1,15 +1,12 @@
-# Plataforma de produdutos orgânicos alimentícios por Região
+# Produtos orgânicos por Região
 
-ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+### ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-Desenvolvimento de Aplicação Web Front-End
+#### Desenvolvimento de Aplicação Web Front-End ####
 
-1º Semestre
+#### 1º Semestre/2022 ####
 
-<picture>
-  </docs/img/logosite2.png>
-  <align = center>
-</picture>
+
 
 ![Logo do site](/docs/img/logosite2.png)  
 
