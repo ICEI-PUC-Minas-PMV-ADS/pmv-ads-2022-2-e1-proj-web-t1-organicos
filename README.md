@@ -27,11 +27,8 @@ O presente projeto busca desenvolver um website com informações frequentemente
 
 * Joyce Cristina de Paiva
 
-## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-# Documentação
+# Documentação do projeto 
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -49,7 +46,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+* O endereço eletrônico será disponibilizado em breve
 
 # Armazenamento do Código-Fonte
 
