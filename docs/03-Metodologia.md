@@ -12,8 +12,8 @@ Os artefatos do projeto serão desenvenvolvidos a partir das plataformas GitHub 
 |-------|-------------------------|----|
 | Repositório de código fonte | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicossim> |
 | Design de Interfaces | InVision | https://hliobernardes751344.invisionapp.com/freehand/orgnicos-5FirhG6Zw|
-| Gerenciamento do Projeto | GitHub | <https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t10-sus_online/projects/1> |
-| Comunicação e Reuniões | Microsoft Teams | <https://teams.microsoft.com/_#/school/conversations/Geral?threadId=19:x-1C6F33rd95TjwGJk7DnskcTGfOJJXue5s54HXySrY1@thread.tacv2&ctx=channel>|
+| Gerenciamento do Projeto | GitHub | <https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/176)> |
+| Comunicação e Reuniões | Microsoft Teams | <https://teams.microsoft.com>|
 
 ## Controle de Versão
 
