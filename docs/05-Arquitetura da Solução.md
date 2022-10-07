@@ -10,22 +10,21 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-![Diagrama de Componentes](img/componentes.png)
-<center>Figura 02 - Arquitetura da Solução</center>
+![Diagrama de Componentes](/docs/img/organicocomponentes.jpg)
+<center>Figura 2 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
+   - **Armazenamento local** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
+     - **Informações** - seções de notícias apresentadas 
      - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
+     - **salvas** - lista de notícias mantidas para leitura e acesso posterior
+     - **Perfil do produtor** - perfil dos produtores rurais da região
+ - **Bootstrap** - Auxilia na responsividade e em algumas funcionalidades do site;
+ - **Produtos API** - plataforma que o cadastro dos produtos
+ - **Notícias API**- permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
 
 Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
 
@@ -58,16 +57,25 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizadas para desenvolvimento da Aplicação Web Front-End são:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+- Visual Studio Code
+- Bootstrap e similares
+- GitHub
+- Invision, Figma e Mirror
+
+Para elaboração e desenvolvimento da Aplicação Web Front-End utilizamos as seguintes linguagens de programação e marcarção:
+
+- HTML;
+- CSS;
+- JavaScript;
 
 
 ## Hospedagem
 
-Explique como a hospedagem e o lançamento da plataforma foi feita.
+O site irá utilizar a plataforma Heroku como ambiente de hospedagem do site do projeto. Ou podemos utilizar a plataforma GitHub Pages como ambiente de hospedagem. 
 
-> **Links Úteis**:
+> **Links que serão consultados **:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
 > - [Programação colaborativa com Repl.it](https://repl.it/)
