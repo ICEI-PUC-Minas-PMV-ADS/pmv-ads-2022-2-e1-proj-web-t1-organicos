@@ -14,11 +14,12 @@ O presente projeto busca desenvolver um website com informações frequentemente
 
 ## Integrantes
 
-* Hebert Paixão do Nascimento
 * Caio César Ferreira Florindo
+* Denian Cesar Soares Faria
+* Hebert Paixão do Nascimento
 * Hélio Vieira Bernardes
 * Leticia Layane Pauli
-* Denian Cesar Soares Faria
+
 
 ## Orientador
 
