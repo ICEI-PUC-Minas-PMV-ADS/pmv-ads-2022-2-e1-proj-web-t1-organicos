@@ -11,9 +11,21 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Produtos Orgânicos</title>
-    <link rel="stylesheet" href="infostyle.css"
+    <link rel="stylesheet" href="./css/infostyle.css"
 
+    <!-- slider stylesheet -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
   
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+  
+    <!-- fonts style aqui podemos alterar a fonte -->
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Dosis:400,600,700|Poppins:400,600,700&display=swap" rel="stylesheet" />
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet" />
+    <!-- responsive style arquivo de css para tornar a página reponsiva-->
+    <link href="css/responsive.css" rel="stylesheet" />
+
   </head>
   
   <body>
@@ -21,6 +33,93 @@
   <br>
   <br>
 
+<div class="hero_area">
+    <!-- header section strats -->
+    <div class="brand_box">
+      <a class="navbar-brand" href="index.html">
+        <span>
+          Produtos Orgânicos
+        </span>
+      </a>
+    </div>
+    <!-- end header section -->
+    <!-- slider section -->
+    <section class=" slider_section position-relative">
+      <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="img-box">
+              <img src="images/uvaia.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="images/jabuticaba.jpg" alt="">
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="img-box">
+              <img src="images/perinhadocerrado.jpg" alt="">
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span class="sr-only">Próximo</span>
+        </a>
+      </div>
+    </section>
+    <!-- end slider section -->
+  </div>
+
+  <!-- início da seção nav -->
+
+  <section class="nav_section">
+    <div class="container">
+      <div class="custom_nav2">
+        <nav class="navbar navbar-expand custom_nav-container ">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="d-flex  flex-column flex-lg-row align-items-center">
+              <ul class="navbar-nav  ">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="about.html">Sobre o site </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="fruit.html">Produtos </a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="noticiais.html">Noticiais</a> <!-- precisamos criar essa página de HTML, pois ela ainda não existe-->
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="testimonial.html">Desenvolvedores</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="contact.html">Contato</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Login</a>
+                </li>
+              </ul>
+              <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
+                <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit"></button>
+              </form>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </section>
+
+  <!-- fim da seção nav -->
 
 <h1>Informações</h1>
  
@@ -32,7 +131,7 @@
   
   
       
-  <img src="./imgs/foto1.jpg" class="img1" alt="produtos orgânicos">
+  <img src="./img/foto1.jpg" class="img1" alt="produtos orgânicos">
 
 
 
@@ -59,9 +158,26 @@
        ambiente. </p>
        <br>
 
+       <!-- Seção sobre compartilhamento em redes sociais -->
+
+       <a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:5500/infoindex.html">
+        <img width="25" height="25" src="./img/face.png" alt="">
+       </a> 
+
+      <a href="https://api.whatsapp.com/send?text=http://127.0.0.1:5500/infoindex.html">
+        <img width="25" height="25" src="./img/whats.png" alt="">
+      </a>
+
+      <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://127.0.0.1:5500/infoindex.html">
+        <img width="25" height="25" src="./img/linke.png" alt="">
+      </a>
+
+  <!-- Fim da Seção sobre compartilhamento em redes sociais -->
+
+
    <h2>Todo produto sem agrotóxico é orgânico?</h2> 
    
-   <img src="./imgs/foto2.jpg" class="img2" alt="produtos orgânicos">
+   <img src="./img/foto2.jpg" class="img2" alt="produtos orgânicos">
 
     <p> Nem todo alimento que não tem o uso de agrotóxico, é considera orgânico, para isso é necessário que os produtos possuem uma certificação,
       e também precisam ter um selo, que é reconhecido pelo Ministério de Agricultura - MAPA, o qual atesta o cumprimento das normas de produção.
@@ -78,14 +194,27 @@
       de agrotóxicos e fertilizantes, até o tratamento veterinário dos animais orgânicos também é diferenciado, as vacinações oficiais são obrigatórias, mas 
       os cuidados não incluem antibióticos nem hormônios e são feitos com fitoterápicos ou homeopatia.</p> 
 
-
-
     </p>
     <br>
+<!-- Seção sobre compartilhamento em redes sociais -->
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/face.png" alt="">
+ </a> 
+
+<a href="https://api.whatsapp.com/send?text=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/whats.png" alt="">
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/linke.png" alt="">
+</a>
+
+<!-- Fim da Seção sobre compartilhamento em redes sociais -->
 
   <h2>Como cultivar produtos orgânicos</h2>
 
-  <img src="./imgs/foto3.jpg" class="img3" alt="produtos orgânicos">
+  <img src="./img/foto3.jpg" class="img3" alt="produtos orgânicos">
 
   <p>Para cultivar produtos orgânicos, o produtor terá que fazer inicialmente um plano de manejo orgânico, ou seja, fará um planejamento 
     de ações, o que irá auxiliar no manejo e como seguir o caminho para a sustentabilidade. Deverá seguir princípios e normas orgânicas, o qual
@@ -109,8 +238,25 @@
    <br>
     
    </p>
+
+   <!-- Seção sobre compartilhamento em redes sociais -->
+
+   <a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:5500/infoindex.html">
+    <img width="25" height="25" src="./img/face.png" alt="">
+   </a> 
+
+  <a href="https://api.whatsapp.com/send?text=http://127.0.0.1:5500/infoindex.html">
+    <img width="25" height="25" src="./img/whats.png" alt="">
+  </a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://127.0.0.1:5500/infoindex.html">
+    <img width="25" height="25" src="./img/linke.png" alt="">
+  </a>
+
+<!-- Fim da Seção sobre compartilhamento em redes sociais -->
+
   <h2>Regulamentação dos produtos orgânicos</h2>
-  <img src="./imgs/organico.jpg" class="img4" alt="selo certificado">
+  <img src="./img/organico.jpg" class="img4" alt="selo certificado">
   
   <p>
     A legislação, que regulamenta a Lei 10.831 de 23 de dezembro de 2003 inclui a produção, o armazenamento, a rotulagem, o 
@@ -124,31 +270,50 @@
         para a agricultura orgânica. De acordo com as novas regras, os agricultores familiares passam a receber autorização para 
         a venda direta ao consumidor, desde que tenham cadastro junto ao órgão fiscalizador.
   </p>
-      
+<br>
+<br>
+</br>
+<!-- Seção sobre compartilhamento em redes sociais -->
+
+<a href="https://www.facebook.com/sharer/sharer.php?u=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/face.png" alt="">
+ </a> 
+
+<a href="https://api.whatsapp.com/send?text=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/whats.png" alt="">
+</a>
+
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=http://127.0.0.1:5500/infoindex.html">
+  <img width="25" height="25" src="./img/linke.png" alt="">
+</a>
+
+<!-- Fim da Seção sobre compartilhamento em redes sociais -->
+
 <br>
 <br>
 <br>
-      
+<br>
+<br>      
 <section id="testmony-container">
   <div class="wrapper">		
-    <h2>Veja o que estão dizendo sobre o site</h2>
+    <h2>Veja o que estão dizendo sobre o site:</h2>
 
     <div class="testmony-box">
-      <img src="./imgs/pessoa1.png">
+      <img src="./img/pessoa1.png">
       
       <p class="testmony-name">Mateus Silva</p>
       <p class="testmony-msg">Eu gostei muito do site, me ajudou muito com as minhas receitas.</p>
      
     </div>
     <div class="testmony-box">
-      <img src="./imgs/pessoa2.png">
+      <img src="./img/pessoa2.png">
       
       <p class="testmony-name">Clarisse Rumford</p>
       <p class="testmony-msg">Agora posso fazer cárdapios mais variados e saudáveis.</p>
       
     </div>
     <div class="testmony-box">
-      <img src="./imgs/pessoa3.png">
+      <img src="./img/pessoa3.png">
       <p class="testmony-name">Maria da Conceição</p>
       <p class="testmony-msg">Agora consigo encontrar mais informações sobre os produtos da minha região.</p>
       
@@ -156,7 +321,153 @@
   </div>
 </section>
     
+    <!-- contact section -->
+    <section class="contact_section layout_padding">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="offset-lg-2 col-md-10 offset-md-1">
+            <div class="heading_container">
+              <hr>
+              <h2>
+                   Informações para contato
+              </h2>
+            </div>
+          </div>
+        </div>
   
+        <div class="layout_padding2-top">
+          <div class="row">
+            <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-1">
+              <form action="">
+                <div class="contact_form-container">
+                  <div>
+                    <div>
+                      <input type="text" placeholder="Nome Completo" />
+                    </div>
+                    <div>
+                      <input type="email" placeholder="Email" />
+                    </div>
+                    <div>
+                      <input type="text" placeholder="Telefone" />
+                    </div>
+                    <div>
+                      <input type="text" class="message_input" placeholder="Mensagem" />
+                    </div>
+                    <div>
+                      <button type="submit">
+                        Enviar
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </form>
+            </div>
+            <div class="col-md-6 px-0">
+              <div class="map_container">
+                <div class="map-responsive">
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d35173.890326816436!2d-44.024676438837!3d-19.925410966125366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa699dc57d681cf%3A0x897f2f71ae2c8900!2sPUC%20Minas%20-%20Unidade%20Pra%C3%A7a%20da%20Liberdade!5e0!3m2!1spt-BR!2sbr!4v1666146276869!5m2!1spt-BR!2sbr" width="600" height="300" frameborder="0" style="border:0; width: 100%; height:100%" allowfullscreen> </iframe>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- end contact section -->
+  
+  
+    <!-- info section -->
+  
+    <section class="info_section layout_padding">
+      <div class="container">
+        <div class="info_logo">
+          <h2>
+            Produtos orgânicos
+          </h2>
+        </div>
+        <div class="info_contact">
+          <div class="row">
+            <div class="col-md-4">
+              <a href="">
+                <img src="images/location.png" alt="">
+                <span>
+                  PUC - Minas 
+                </span>
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="">
+                <img src="images/call.png" alt="">
+                <span>
+                  WhatsApp: +5519981668290
+                </span>
+              </a>
+            </div>
+            <div class="col-md-4">
+              <a href="">
+                <img src="images/mail.png" alt="">
+                <span>
+                  caioflorindo007@gmail.com
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8 col-lg-9">
+            <div class="info_form">
+              <form action="">
+                <input type="text" placeholder="Digite seu e-mail">
+                <button>
+                  Subscrever
+                </button>
+              </form>
+            </div>
+          </div>
+          <div class="col-md-4 col-lg-3">
+            <div class="info_social">
+              <div>
+                <a href="">
+                  <img src="images/facebook-logo-button.png" alt="">
+                </a>
+              </div>
+              <div>
+                <a href="">
+                  <img src="images/twitter-logo-button.png" alt="">
+                </a>
+              </div>
+              <div>
+                <a href="">
+                  <img src="images/linkedin.png" alt="">
+                </a>
+              </div>
+              <div>
+                <a href="">
+                  <img src="images/instagram.png" alt="">
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+  
+      </div>
+    </section>
+  
+    <!-- end info section -->
+  
+  
+    <!-- footer section -->
+    <section class="container-fluid footer_section">
+      <p>
+        &copy; <span id="displayYear"></span> Direitos reservados para
+        <a href="https://html.design/">Produtos orgânicos</a>
+      </p>
+    </section>
+    <!-- footer section -->
+
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
 
 </body>
 </html>
