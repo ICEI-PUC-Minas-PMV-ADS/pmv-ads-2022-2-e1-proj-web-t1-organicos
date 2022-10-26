@@ -1,11 +1,55 @@
-# Instruções de utilização
+# Produtos orgânicos por Região
 
-## Instalação do Site
+### ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
+#### Desenvolvimento de Aplicação Web Front-End ####
 
-## Histórico de versões
+#### 1º Semestre/2022 ####
 
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+
+
+![Logo do site](/docs/img/logosite2.png)  
+
+O presente projeto busca desenvolver um website com informações frequentemente atualizadas sobre os principais produtos orgânicos alimentícios produzidos em determinadas regiões.  Além disso, este website incluirá informações detalhadas sobre agricultura orgânica, agroecologia e sobre os problemas causados por uso de agrotóxicos.   
+
+## Integrantes
+
+* Caio César Ferreira Florindo
+* Denian Cesar Soares Faria
+* Hebert Paixão do Nascimento
+* Hélio Vieira Bernardes
+* Leticia Layane Pauli
+
+
+## Orientador
+
+* Joyce Cristina de Paiva
+
+
+# Documentação do projeto 
+
+<ol>
+<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/11-Referências.md"> Referências</a></li>
+</ol>
+
+# Hospedagem
+
+* O endereço eletrônico será disponibilizado em breve
+
+# Armazenamento do Código-Fonte
+
+* <a href="src/README.md">Código Fonte</a>
+
+# Armazenamento da Apresentação
+
+* <a href="presentation/README.md">Apresentação da solução</a>
