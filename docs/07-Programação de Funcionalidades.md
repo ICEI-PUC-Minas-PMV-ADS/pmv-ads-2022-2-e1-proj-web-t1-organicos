@@ -15,7 +15,7 @@ Para cada requisito funcional, pode ser entregue um artefato e esses artefatos s
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 
-## Estrutura geral do site e seções de navegação
+## Estrutura geral do site e seções de navegação (Autor Caio César )
 
 A estrutura do site está sendo desenvolvida em HTML5, CSS e JavaScript. Para o desenvolvimento do site estamos utilizando uma ferramenta de apoio chamada Bootstrap. O Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Até o momento, o framework tem nos auxiliado no desenvolvimento das principais características do site, incluindo a criação de excelentes estruturas de visualização e responsividade. Nas subseções abaixo vamos detalhar cada página com suas funcionalidades e estrutura de dados. Entretanto abaixo é primeiramente apresentado a lista dos principais requisitos e artefatos referente a estrutura geral do site.
 equisitos atendidos:
@@ -41,21 +41,21 @@ Não Funcionais:
 - RNF-06: O site deverá ter uma interface simples e intuitiva para motivar e facilitar a sua utilização.
 - RNF-09: O site deve apresentar um layout moderno e padronizado seguindo as recomendações da W3C.
 
-Artefatos da funcionalidade:
+Artefatos gerais da funcionalidade:
 
--	Informações.html;
+-	index.html;
+-	about.html;
+-	fruit.html;
+-	informações.html;
+-	contact.html;
+-	testimonial.html;
+-	informações.html;
+-	noticiash.html;
 -	Bootstrap.css;
 -	Responsivo.css;
 -	Style.css;
 -	Style.css.map;
 -	Style.scss;
--	Foto1.jgp;
--	Foto2.jgp;
--	Foto3.jpg;
--	Organico.jgp;
--	Pessoa1.png;
--	Pessoa2.png;
--	Pessoa3.png;
 -	Facebook-logo-button.png;
 -	Twitter-logo-button.png;
 -	Linkedin.png
@@ -67,15 +67,88 @@ Artefatos da funcionalidade:
 -	Bootstrap.js;
 -	Custom.js.
 
+Estrutura de dados do Boostrap: As páginas seguem o padrão de formatação do template do site
 
-**1 - HomePage**
+![Bootstrap 1](/src/img/bootstrap/Bootstrap1.png)  
+##### *Figura 19 - Inicio do arquivo do Bootstrap. Em virtude do arquivo conter várias linhas de código são exibidas apenas as primeiras linhas. 
+
+**1 - HomePage** 
+
+Telas da página de Informações:
+
+![Cabeçalho padrão do site - Tela de Informações](/src/img/telas/homepage.png)  
+##### *Figura 20 - Cabeçalho do site com os itens de navegação*
+
+![Conteúdo da tela de Informações](/src/img/telas/artigoleparte2.png) 
+##### *Figura 20 - Contexto da tela, onde temos imagens para melhor visualização e diversas informações dos produtos, assim como sua regulamentação, certificação, cultivo, histórias e entre outros*
+
+![Rodapé padrão do site - Tela de Informações](/src/img/telas/artigoleparte3.png) 
+##### *Figura 21 - Parte onde contém as fontes, comentários das pessoas, contato, redes sociais, localizalção*
+
+
+Estrutura de dados: As páginas seguem o padrão de formatação do template do site
+
+HTML:
+
+![Estrutura de dados inicial](/src/img/código/cabeçalho.png) 
+##### *Figura 22 - Cabeçalho padrão do Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/cabeçalho2.png) 
+##### *Figura 23 - Continuação do cabeçalho padrão do Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/contextoinfo.png) 
+##### *Figura 24 - Contexto da tela de informações*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/fontesinfo.png) 
+##### *Figura 25 - Código da parte de fontes*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/comentariosinfo.png) 
+##### *Figura 26 - Código da parte de comentários*
+
+![Estrutura de dados da parte ](/src/img/código/contato.png) 
+##### *Figura 27 - Código da parte de contato, redes sociais e localização*
+
+![Estrutura de dados inicial](/src/img/código/contato2.png) 
+##### *Figura 28 - Código da parte de contato, redes sociais e localização*
+
+Telas da página Sobre o Site (Feita por Leticia L. Pauli:
+
+![Cabeçalho da Tela Sobre o Site](/src/img/telas/infosobresite.png) 
+##### *Figura 29 - Cabeçalho padrão do site*
+
+![Conteúdo e rodapé da Tela Sobre o Site](/src/img/telas/infosobresite2.png) 
+##### *Figura 30 - Contexto da tela de Sobre o Site e rodapé padrão do site*
+
+Estrutura de dados do Boostrap: As páginas seguem o padrão de formatação do template do site
+
+HTML:
+
+![Estrutura de dados do Cabeçalho](/src/img/código/cabeçalho.png) 
+##### *Figura 31 - Cabeçalho padrão do Site*
+
+![Estrutura de dados do Cabeçalho](/src/img/código/cabeçalho2.png) 
+##### *Figura 32 - Continuação do cabeçalho padrão do Site*
+
+![Estrutura de dados da parte ](/src/img/código/contextosobre.png) 
+##### *Figura 33 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados inicial](/src/img/código/contato2.png) 
+##### *Figura 34 - Contexto da tela Sobre o Site*
 
 
 
 
 
 
-Página do site - Tela de Informações (Feita por Leticia L. Pauli): é apresentado em destaque as informações gerais sobre produtos orgânicos, como seu cultivo, certificação, regulamentação, história, entre outras, também é acrescentado o link das fontes.
+
+
+
+
+
+
+## Página sobre o site e tela de informações (aturora Leticia L. Pauli)
+
+- Tela de Informações: é apresentado em destaque as informações gerais sobre produtos orgânicos, como seu cultivo, certificação, regulamentação, história, entre outras, também é acrescentado o link das fontes.
 
 Requisitos atendidos:
 
