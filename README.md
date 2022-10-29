@@ -15,7 +15,7 @@ O presente projeto busca desenvolver um website com informações frequentemente
 ## Integrantes
 
 * Caio César Ferreira Florindo
-* Denian Cesar Soares Faria
+* ~~Denian Cesar Soares Faria~~ (está se desligando do curso)
 * Hebert Paixão do Nascimento
 * Hélio Vieira Bernardes
 * Leticia Layane Pauli
@@ -44,7 +44,7 @@ O presente projeto busca desenvolver um website com informações frequentemente
 
 # Hospedagem
 
-* O endereço eletrônico será disponibilizado em breve
+* O endereço eletrônico será disponibilizado em Breve.
 
 # Armazenamento do Código-Fonte
 
