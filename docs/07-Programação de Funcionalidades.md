@@ -15,11 +15,11 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 
-*Página do site - Tela de Informações (Feita por Leticia L. Pauli):* é apresentado em destaque as informações gerais sobre produtos orgânicos, como seu cultivo, certificação, regulamentação, história, entre outras, também é acrescentado o link das fontes.
+Página do site - Tela de Informações (Feita por Leticia L. Pauli): é apresentado em destaque as informações gerais sobre produtos orgânicos, como seu cultivo, certificação, regulamentação, história, entre outras, também é acrescentado o link das fontes.
 
-*Requisitos atendidos:*
+Requisitos atendidos:
 
-*Funcionais:*
+Funcionais:
 
 - RF-01: O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras bibliografias de fontes externas (sources e backlinks).
 - RF-03: O site deve permitir visualizar as informações de contatos do mantenedor do site
@@ -29,7 +29,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 - RF-09: O site deve permitir o cadastro do usuário para receber notificações de atualização de conteúdo.
 - RF-14: O site deve permitir ao usuário visualizar o texto completo onde todos os detalhes da publicação sobre o produto orgânico são exibidos. 
 
-*Não Funcionais:*
+Não Funcionais:
 
 - RNF-02: O site deverá ser responsivo permitindo a visualização em um celular ou tablet de forma adequada
 - RNF-03: O site deve permitir uma boa visualização dos elementos da página. 
@@ -37,7 +37,7 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 - RNF-05: O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3).
 - RNF-06: O site deverá ter uma interface simples e intuitiva para motivar e facilitar a sua utilização.
 
-*Artefatos da funcionalidade:*
+Artefatos da funcionalidade:
 
 -	Informações.html;
 -	Bootstrap.css;
@@ -64,44 +64,44 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 -	Custom.js.
 
 
-*Telas da página de Informações:*
+Telas da página de Informações:
 
 ![Cabeçalho padrão do site - Tela de Informações](/src/img/telas/artigoleparte1.png)  
-##### *Figura 19 - Cabeçalho padrão so site*
+##### *Figura 19 - Cabeçalho padrão so site, onde temos a parte do menu, contato, buscar*
 
 ![Conteúdo da tela de Informações](/src/img/telas/artigoleparte2.png) 
-##### *Figura 20 - Contexto da tela de informações*
+##### *Figura 20 - Contexto da tela, onde temos imagens para melhor visualização e diversas informações dos produtos, assim como sua regulamentação, certificação, cultivo, histórias e entre outros*
 
 ![Rodapé padrão do site - Tela de Informações](/src/img/telas/artigoleparte3.png) 
-##### *Figura 21 - Contexto da tela de informações*
+##### *Figura 21 - Parte onde contém as fontes, comentários das pessoas, contato, redes sociais, localizalção*
 
 
-*Estrutura de dados: As páginas seguem o padrão de formatação do template do site*
+Estrutura de dados: As páginas seguem o padrão de formatação do template do site
 
-*HTML:*
+HTML:
 
 ![Estrutura de dados inicial](/src/img/código/cabeçalho.png) 
-##### *Figura 22 - Contexto da tela de Sobre o Site*
+##### *Figura 22 - Cabeçalho padrão do Site*
 
 ![Estrutura de dados do conteúdo do site](/src/img/código/cabeçalho2.png) 
-##### *Figura 23 - Contexto da tela Sobre o Site*
+##### *Figura 23 - Continuação do cabeçalho padrão do Site*
 
 ![Estrutura de dados do conteúdo do site](/src/img/código/contextoinfo.png) 
-##### *Figura 24 - Contexto da tela Sobre o Site*
+##### *Figura 24 - Contexto da tela de informações*
 
 ![Estrutura de dados do conteúdo do site](/src/img/código/fontesinfo.png) 
-##### *Figura 25 - Contexto da tela Sobre o Site*
+##### *Figura 25 - Código da parte de fontes*
 
 ![Estrutura de dados do conteúdo do site](/src/img/código/comentariosinfo.png) 
-##### *Figura 26 - Contexto da tela Sobre o Site*
+##### *Figura 26 - Código da parte de comentários*
 
 ![Estrutura de dados da parte ](/src/img/código/contato.png) 
-##### *Figura 27 - Contexto da tela Sobre o Site*
+##### *Figura 27 - Código da parte de contato, redes sociais e localização*
 
 ![Estrutura de dados inicial](/src/img/código/contato2.png) 
-##### *Figura 28 - Contexto da tela Sobre o Site*
+##### *Figura 28 - Código da parte de contato, redes sociais e localização*
 
-*Telas da página Sobre o Site (Feita por Leticia L. Pauli:*
+Telas da página Sobre o Site (Feita por Leticia L. Pauli:
 
 ![Cabeçalho da Tela Sobre o Site](/src/img/telas/infosobresite.png) 
 ##### *Figura 29 - Cabeçalho padrão do site*
@@ -109,31 +109,31 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 ![Conteúdo e rodapé da Tela Sobre o Site](/src/img/telas/infosobresite2.png) 
 ##### *Figura 30 - Contexto da tela de Sobre o Site e rodapé padrão do site*
 
-*Estrutura de dados: As páginas seguem o padrão de formatação do template do site*
+Estrutura de dados: As páginas seguem o padrão de formatação do template do site
 
-*HTML:*
+HTML:
 
 ![Estrutura de dados do Cabeçalho](/src/img/código/cabeçalho.png) 
-##### *Figura 21 - Cabeçalho padrão do Site*
+##### *Figura 31 - Cabeçalho padrão do Site*
 
 ![Estrutura de dados do Cabeçalho](/src/img/código/cabeçalho2.png) 
-##### *Figura 21 - Continuação do cabeçalho padrão do Site*
+##### *Figura 32 - Continuação do cabeçalho padrão do Site*
 
 ![Estrutura de dados da parte ](/src/img/código/contextosobre.png) 
-##### *Figura 21 - Contexto da tela Sobre o Site*
+##### *Figura 33 - Contexto da tela Sobre o Site*
 
 ![Estrutura de dados inicial](/src/img/código/contato2.png) 
-##### *Figura 21 - Contexto da tela Sobre o Site*
+##### *Figura 34 - Contexto da tela Sobre o Site*
 
 
-*CSS: É tanto da página de Informações quanto da Sobre o Site:*
+CSS: É tanto da página de Informações quanto da Sobre o Site:
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI.png.png) 
-##### *Figura 22 - Estrutura de dados da parte de imagens e linhas*
+##### *Figura 35 - Estrutura de dados da parte de imagens e linhas*
 
 ![CSS da parte de imagens e linhas](/src/img/código/CSS-FormataçãoSI2.png.png) 
-##### *Figura 23 - Estrutura de dados da formatação dos comentários*
+##### *Figura 36 - Estrutura de dados da formatação dos comentários*
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI3.png.png) 
-##### *Figura 24 - Estrutura de dados da formatação dos comentários continuação do código*
+##### *Figura 37 - Estrutura de dados da formatação dos comentários continuação do código*
 
