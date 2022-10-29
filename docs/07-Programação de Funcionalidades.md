@@ -112,7 +112,7 @@ HTML:
 ![Estrutura de dados inicial](/src/img/código/contato2.png) 
 ##### *Figura 28 - Código da parte de contato, redes sociais e localização*
 
-Telas da página Sobre o Site (Feita por Leticia L. Pauli:
+Telas da página Sobre o Site (Feita por Leticia L. Pauli):
 
 ![Cabeçalho da Tela Sobre o Site](/src/img/telas/infosobresite.png) 
 ##### *Figura 29 - Cabeçalho padrão do site*
@@ -136,15 +136,32 @@ HTML:
 ![Estrutura de dados inicial](/src/img/código/contato2.png) 
 ##### *Figura 34 - Contexto da tela Sobre o Site*
 
+Telas da página de notícias e receitas no Site (Feito por Hélio Vieira Bernardes):
+
+![Cabeçalho da Tela sobre Notícias](/src/img/telas/noticas.png)
+#### *Figura 35 - Tela sobre Notícias
+
+HTML:
+
+![Estrutura de dados da parte ](/src/img/código/codigonoticias.png) 
+##### *Figura 36 - Contexto da tela Nóticas*
+
+![Cabeçalho da Tela sobre Receitas](/src/img/telas/receitas.png)
+#### *Figura 37 - Tela sobre Receitas
+
+HTML:
+
+![Estrutura de dados da parte ](/src/img/código/codigoreceitas.png) 
+##### *Figura 38 - Contexto da tela Receitas*
 
 CSS: É tanto da página de Informações quanto da Sobre o Site:
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI.png.png) 
-##### *Figura 35 - Estrutura de dados da parte de imagens e linhas*
+##### *Figura 39 - Estrutura de dados da parte de imagens e linhas*
 
 ![CSS da parte de imagens e linhas](/src/img/código/CSS-FormataçãoSI2.png.png) 
-##### *Figura 36 - Estrutura de dados da formatação dos comentários*
+##### *Figura 40 - Estrutura de dados da formatação dos comentários*
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI3.png.png) 
-##### *Figura 37 - Estrutura de dados da formatação dos comentários continuação do código*
+##### *Figura 41 - Estrutura de dados da formatação dos comentários continuação do código*
 
