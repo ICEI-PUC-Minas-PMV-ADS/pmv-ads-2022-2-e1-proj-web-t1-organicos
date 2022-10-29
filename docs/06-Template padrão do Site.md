@@ -62,7 +62,7 @@ Clicando no botão mais informações de um certo produto orgânico, o usuário 
 
 **4 - Noticias:**
 Ao clicar em notícias, o usuário é levada a uma página (arquivo *noticiash.html*) que contem links de diversas fontes sobre determinados produtos orgânicos. O print desta tela é mostrado na figura 16.
-![noticias](/src/img/telas/noticiash.png)  
+![noticias](/src/img/telas/noticias.png)  
 ##### *Figura 16 - Página de notícias e links externos*
 
 **5 - Desenvolvedores:**
@@ -83,9 +83,6 @@ Página de rodapé padrão do site (presente em todas as páginas), onde estão 
 
 ![rodape](/src/img/telas/rodape.png)  
 ##### *Figura 19 - Rodapé padrão do site*
-
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
 
 
