@@ -13,3 +13,122 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+
+Página do site - Tela de Informações (Feita por Leticia L. Pauli): é apresentado em destaque as informações gerais sobre produtos orgânicos, como seu cultivo, certificação, regulamentação, história, entre outras, também é acrescentado o link das fontes.
+
+Requisitos atendidos:
+
+Funcionais:
+
+- RF-01: O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras bibliografias de fontes externas (sources e backlinks).
+- RF-03: O site deve permitir visualizar as informações de contatos do mantenedor do site
+- RF-04: O site deve permitir o compartilhamento das informações visualizadas em plataformas de redes sociais (links ou botões). 
+- RF-07: O site deve permitir que usuários comentem na página de informação sobre um determinado produto orgânico.
+- RF-08: O site deve exibir os comentários registrados juntamente com a informação sobre o produto orgânico 
+- RF-09: O site deve permitir o cadastro do usuário para receber notificações de atualização de conteúdo.
+- RF-14: O site deve permitir ao usuário visualizar o texto completo onde todos os detalhes da publicação sobre o produto orgânico são exibidos. 
+
+Não Funcionais:
+
+- RNF-02: O site deverá ser responsivo permitindo a visualização em um celular ou tablet de forma adequada
+- RNF-03: O site deve permitir uma boa visualização dos elementos da página. 
+- RNF-04: O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Opera, Microsoft Edge e outros)
+- RNF-05: O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3).
+- RNF-06: O site deverá ter uma interface simples e intuitiva para motivar e facilitar a sua utilização.
+
+Artefatos da funcionalidade:
+
+-	Informações.html;
+-	Bootstrap.css;
+-	Responsivo.css;
+-	Style.css;
+-	Style.css.map;
+-	Style.scss;
+-	Foto1.jgp;
+-	Foto2.jgp;
+-	Foto3.jpg;
+-	Organico.jgp;
+-	Pessoa1.png;
+-	Pessoa2.png;
+-	Pessoa3.png;
+-	Facebook-logo-button.png;
+-	Twitter-logo-button.png;
+-	Linkedin.png
+-	Intagram.png;
+-	Mail.png;
+-	Location.png;
+-	Call.png;
+-	Jquery-3.4.1.min.js;
+-	Bootstrap.js;
+-	Custom.js.
+
+
+Telas da página de Informações:
+
+![Cabeçalho padrão do site - Tela de Informações](/src/img/telas/artigoleparte1.png)  
+##### *Figura 19 - Cabeçalho padrão so site*
+
+![Conteúdo da tela de Informações](/src/img/telas/artigoleparte2.png) 
+##### *Figura 20 - Contexto da tela de informações*
+
+![Rodapé padrão do site - Tela de Informações](/src/img/telas/artigoleparte3.png) 
+##### *Figura 21 - Contexto da tela de informações*
+
+
+Estrutura de dados:
+
+HTML:
+
+![Estrutura de dados inicial](/src/img/código/cabeçalho.png) 
+##### *Figura 22 - Contexto da tela de Sobre o Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/cabeçalho2.png) 
+##### *Figura 23 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/contextoinfo.png) 
+##### *Figura 24 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/fontesinfo.png) 
+##### *Figura 25 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/comentariosinfo.png) 
+##### *Figura 26 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados da parte ](/src/img/código/contato.png) 
+##### *Figura 27 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados inicial](/src/img/código/contato2.png) 
+##### *Figura 28 - Contexto da tela Sobre o Site*
+
+Telas da página Sobre o Site:
+
+
+Estrutura de dados:
+
+HTML:
+
+![Estrutura de dados inicial](/src/img/código/cabeçalho.png) 
+##### *Figura 21 - Contexto da tela de Sobre o Site*
+
+![Estrutura de dados do conteúdo do site](/src/img/código/cabeçalho2.png) 
+##### *Figura 21 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados da parte ](/src/img/código/contato.png) 
+##### *Figura 21 - Contexto da tela Sobre o Site*
+
+![Estrutura de dados inicial](/src/img/código/contato2.png) 
+##### *Figura 21 - Contexto da tela Sobre o Site*
+
+
+CSS: É tanto da página de Informações quanto da Sobre o Site:
+
+![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI.png.png) 
+##### *Figura 22 - Estrutura de dados da parte de imagens e linhas*
+
+![CSS da parte de imagens e linhas](/src/img/código/CSS-FormataçãoSI2.png.png) 
+##### *Figura 23 - Estrutura de dados da formatação dos comentários*
+
+![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI3.png.png) 
+##### *Figura 24 - Estrutura de dados da formatação dos comentários continuação do código*
+
