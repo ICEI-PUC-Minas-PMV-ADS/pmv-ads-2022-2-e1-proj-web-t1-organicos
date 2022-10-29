@@ -4,8 +4,24 @@
 
 Um template, também chamado de tema, atribui ao site o aspecto visual e também funcionalidades que otimizem a sua performance.  O template do site desenvolvido por nossa equipe foi atualizado e seguirá um padrão um pouco diferente dos wireframes (serão atualizados) apresentados na seção de projeto de interface.   O padrão de layout segue conforme a figura 9 abaixo.
 
+![Logo do site](/src/img/telas/homepage.png)  
+##### *Figura 09 - homepage*
 
+O template criado está disponível no site GitHub e é composto pelos seguintes botões de navegação na aba de homepage:
 
+- sobre o site;  
+
+- produtos
+
+- noticias;  
+
+- desenvolvedores;  
+
+- contato;  
+
+- login;  
+
+A responsividade segue o padrão do Bootstrap. 
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
