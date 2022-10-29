@@ -138,7 +138,7 @@ HTML:
 
 Telas da página de notícias e receitas no Site (Feito por Hélio Vieira Bernardes):
 
-![Cabeçalho da Tela sobre Notícias](/src/img/telas/noticas.png)
+![Cabeçalho da Tela sobre Notícias](/src/img/código/noticas.png)
 #### *Figura 35 - Tela sobre Notícias
 
 HTML:
@@ -146,7 +146,7 @@ HTML:
 ![Estrutura de dados da parte ](/src/img/código/codigonoticias.png) 
 ##### *Figura 36 - Contexto da tela Nóticas*
 
-![Cabeçalho da Tela sobre Receitas](/src/img/telas/receitas.png)
+![Cabeçalho da Tela sobre Receitas](/src/img/código/receitas.png)
 #### *Figura 37 - Tela sobre Receitas
 
 HTML:
