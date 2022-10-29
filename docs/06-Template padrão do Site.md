@@ -7,7 +7,10 @@ Um template, também chamado de tema, atribui ao site o aspecto visual e também
 ![Logo do site](/src/img/telas/homepage.png)  
 ##### *Figura 09 - homepage*
 
-O template criado está disponível no site GitHub e é composto pelos seguintes botões de navegação na aba de homepage:
+A tela acima é o homepage inicial de nosso site. Nele está condito um slider com uma <a href="(/src/img/telas/homepage.png)">foto</a> sobre produtos 
+ composto pelos seguintes botões de navegação na aba de homepage:
+
+- Home
 
 - sobre o site;  
 
@@ -19,9 +22,18 @@ O template criado está disponível no site GitHub e é composto pelos seguintes
 
 - contato;  
 
-- login;  
+- login;
+
+- Rodapé  
 
 A responsividade segue o padrão do Bootstrap. 
+
+**1 - Home:**
+
+Home é idenficado pelo arquivo *index.html*. Essa página contém basicamente todos os outros itens da barra de navegação. Ao clicar em home ocorre o carregamento de todas as informações do site em uma única página. O primeiro item que aparece é os destaques da semana, onde serão apresentados as principais noticíais, artigos e produtos favoritados pelos usuários do site. 
+
+**2 - Home:**
+
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
