@@ -17,10 +17,9 @@ Para cada requisito funcional, pode ser entregue um artefato e esses artefatos s
 
 ## Estrutura geral do site e seções de navegação (Autor Caio César )
 
-A estrutura do site está sendo desenvolvida em HTML5, CSS e JavaScript. Para o desenvolvimento do site estamos utilizando uma ferramenta de apoio chamada Bootstrap. O Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Até o momento, o framework tem nos auxiliado no desenvolvimento das principais características do site, incluindo a criação de excelentes estruturas de visualização e responsividade. Nas subseções abaixo vamos detalhar cada página com suas funcionalidades e estrutura de dados. Entretanto abaixo é primeiramente apresentado a lista dos principais requisitos e artefatos referente a estrutura geral do site.
-equisitos atendidos:
+A estrutura do site está sendo desenvolvida em HTML5, CSS e JavaScript. Para o desenvolvimento do site estamos utilizando uma ferramenta de apoio chamada Bootstrap. O Bootstrap é um framework front-end que fornece estruturas de CSS para a criação de sites e aplicações responsivas de forma rápida e simples. Até o momento, o framework tem nos auxiliado no desenvolvimento das principais características do site, incluindo a criação de excelentes estruturas de visualização e responsividade. Nas subseções abaixo vamos detalhar cada página com suas funcionalidades e estrutura de dados. Entretanto, vamos primeiramente apresentar uma lista geral dos principais requisitos e artefatos referente a estrutura geral do site que até o momento conseguimos desenvolver.
 
-Funcionais:
+Requisitos Funcionais atendidos:
 
 - RF-01: O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras bibliografias de fontes externas (sources e backlinks).
 - RF-03: O site deve permitir visualizar as informações de contatos do mantenedor do site.
@@ -32,7 +31,7 @@ Funcionais:
 - RF-13: O site deve permitir manutenções constantes, as quais envolverão principalmente atualizações de informações sobre os produtos orgânicos.
 - RF-14: O site deve permitir ao usuário visualizar o texto completo onde todos os detalhes da publicação sobre o produto orgânico são exibidos. 
 
-Não Funcionais:
+Requisitos Não Funcionais atendidos:
 
 - RNF-02: O site deverá ser responsivo permitindo a visualização em um celular ou tablet de forma adequada.
 - RNF-03: O site deve permitir uma boa visualização dos elementos da página. 
@@ -56,6 +55,20 @@ Artefatos gerais da funcionalidade:
 -	Style.css;
 -	Style.css.map;
 -	Style.scss;
+- slider-img.jpg;
+-	about-img.jpg;
+-	f-1.jpg;
+-	f-2.jpg;
+-	f-3.jpg;
+-	f-4.jpg;
+-	f-5.jpg;
+-	f-6.jpg;
+-	caiocesar.jpg;
+-	left-quote.png;
+-	right-quote.png;
+-	leticiaperfil.jpg;
+-	helioperfil.jpg;
+-	herbet.png;
 -	Facebook-logo-button.png;
 -	Twitter-logo-button.png;
 -	Linkedin.png
@@ -510,13 +523,13 @@ HTML:
 CSS: É tanto da página de Informações quanto da Sobre o Site:
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI.png) 
-##### *Figura 35 - Estrutura de dados da parte de imagens e linhas*
+##### *Figura 45 - Estrutura de dados da parte de imagens e linhas*
 
 ![CSS da parte de imagens e linhas](/src/img/código/CSS-FormataçãoSI2.png) 
-##### *Figura 36 - Estrutura de dados da formatação dos comentários*
+##### *Figura 46 - Estrutura de dados da formatação dos comentários*
 
 ![CSS da parte inicial](/src/img/código/CSS-FormataçãoSI3.png) 
-##### *Figura 37 - Estrutura de dados da formatação dos comentários continuação do código*
+##### *Figura 47 - Estrutura de dados da formatação dos comentários continuação do código*
 
 ## Página sobre as notícias (autor Hélio)
 
