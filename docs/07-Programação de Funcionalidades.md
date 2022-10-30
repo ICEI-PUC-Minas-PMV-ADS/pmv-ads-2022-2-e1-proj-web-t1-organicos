@@ -541,5 +541,13 @@ CSS: É tanto da página de Informações quanto da Sobre o Site:
 
 ## Página sobre as notícias (autor Hélio)
 
+![Conteúdo e rodapé da Tela Sobre o Site](/src/img/telas/noticias.png) 
+##### *Figura 48 - Contexto da tela de Sobre nas Notícias*
+
+HTML
+
+![Estrutura de dados da parte ](/src/img/código/codigonoticias.png) 
+##### *Figura 43 - Contexto da tela Sobre o Site nas Notícias*
+
 ## Página sobre as receitas (autor Herbet)
 
