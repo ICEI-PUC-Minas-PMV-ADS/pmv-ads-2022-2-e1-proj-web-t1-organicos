@@ -547,7 +547,16 @@ CSS: É tanto da página de Informações quanto da Sobre o Site:
 HTML
 
 ![Estrutura de dados da parte ](/src/img/codigonoticias.png) 
-##### *Figura 43 - Contexto da tela Sobre o Site nas Notícias*
+##### *Figura 49 - Contexto da tela Sobre o Site nas Notícias*
 
-## Página sobre as receitas (autor Herbet)
+
+## Página do Login (autor Herbet)
+
+Tela do arquivo HTML:
+![Conteúdo e rodapé da Tela Sobre o Site](/src/img/código/image.png) 
+##### *Figura 49 - Arquivo HTML da tela de login*
+
+Tela de login
+![Tela de login ](/src/img/telas/logintela.jpeg) 
+##### *Figura 50 - Tela de login*.
 
