@@ -63,6 +63,14 @@ Artefatos gerais da funcionalidade:
 -	f-4.jpg;
 -	f-5.jpg;
 -	f-6.jpg;
+-	horta-organica-1.jpg;
+-	foto1.jpg;
+-	foto2.jpg;
+-	foto3.jpg;
+-	organico.jpg;
+-	pessoa1.png;
+-	pessoa2.png;
+-	pessoa3.png
 -	caiocesar.jpg;
 -	left-quote.png;
 -	right-quote.png;
@@ -80,10 +88,10 @@ Artefatos gerais da funcionalidade:
 -	Bootstrap.js;
 -	Custom.js.
 
-Estrutura de dados do Boostrap: As páginas seguem o padrão de formatação do template do site
+Estrutura de dados do Boostrap que foi utilizado no desenvolvimento do site.
 
 ![Bootstrap 1](/src/img/bootstrap/Bootstrap1.png)  
-##### *Figura 19 - Inicio do arquivo do Bootstrap. Em virtude do arquivo conter várias linhas de código são exibidas apenas as primeiras linhas. 
+##### *Figura 19 - Estrutura do Bootstrap empregado. Em virtude do arquivo conter várias linhas de código são exibidas apenas as primeiras linhas. 
 
 Estrutura de dados do CSS: 
 
@@ -213,8 +221,8 @@ Artefatos da funcionalidade:
 
 Estrutura do HTML:
 
-![Cabeçalho padrão do site - homepage](/src/img/código/sobreositehtml.png)  
-##### *Figura 26 - Cabeçalho do site com os itens de navegação*
+![Informação - sobre o site](/src/img/código/sobreositehtml.png)  
+##### *Figura 26 - HTML da página de informação sobre o site*
 
 **3 - Produtos** 
 
