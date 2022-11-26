@@ -20,7 +20,8 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 | Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Visualizar as fontes da página |  |
 | Critérios de Êxito | As informações sobre a fonte das informações externas trazidas à página estão funcionando corretamente. | |
 
-![Teste 01](src/img/telas/teste01.png)  
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste01.png)  
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste02.png) 
 
 |Caso de Teste    | CT-02 - Visualizar comentários   | |
 |-------|-------------------------|----|
@@ -31,8 +32,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 | Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Visualizar no final da página os comentários |  |
 | Critérios de Êxito | Os comentários devem ser exibidos de forma correta no final da página; | |
 
-![Teste 02](src/img/telas/teste02.png)  
-
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste03.png)  
 
 |Caso de Teste    | CT-03 – Botão de buscar/pesquisar  | |
 |-------|-------------------------|----|
@@ -41,7 +41,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 | Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Verificar se o botão de pesquisar está aparecendo |  |
 | Critérios de Êxito | O botão de pesquisar está aparecendo corretamente no topo da página, com fácil acesso e visualização, não sendo escondido | |
 
-![Teste 03](src/img/telas/teste03.png)  
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste04.png) 
 
 |Caso de Teste    | CT-04 – Visualizar informações principais  | |
 |-------|-------------------------|----|
@@ -50,4 +50,22 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 | Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Visualizar a página principal |  |
 | Critérios de Êxito | As informações devem ser exibidas corretamente no site, sendo necessárias pelo menos 2 ou mais informações sendo apresentadas, as informações devem trazer imagens visíveis associadas ao assunto. | |
 
-![Teste 04](src/img/telas/teste04.png)  
+ 
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste05.png)
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste06.png)
+
+|Caso de Teste    | CT-05 – Permitir cadastro de usuário  | |
+|-------|-------------------------|----|
+| Requisitos Associados | RF-09 - O site deve permitir o cadastro do usuário para receber notificações de atualização de conteúdo. |  |
+| Objetivo do Teste |Verificar se o cadastro de usuário está funcionando corretamente | |
+| Passos | 1) Acessar o Navegador, 2) Informar o endereço do Site, 3) Acessar o cadastro, 4) Tentar cadastrar |  |
+| Critérios de Êxito | 	O cadastro está funcionando corretamente;
+Não permite deixar campos necessários em branco
+	Quando coloca um CEP válido, o mesmo puxa o endereço automaticamente, sendo assim o usuário não precisa ficar preenchendo tudo. | |
+ 
+
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste07.png)
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste08.png)
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste09.png)
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste10.png)
+ 
