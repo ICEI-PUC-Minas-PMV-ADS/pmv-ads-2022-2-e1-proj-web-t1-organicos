@@ -53,6 +53,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
  
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste05.png)
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste06.png)
+![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste12.png)
 
 |Caso de Teste    | CT-05 – Permitir cadastro de usuário  | |
 |-------|-------------------------|----|
@@ -65,7 +66,12 @@ Não permite deixar campos necessários em branco
  
 
  ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste07.png)
+ 
  ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste08.png)
+ 
  ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste09.png)
+ 
  ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste10.png)
+ 
+ ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste11.png)
  
