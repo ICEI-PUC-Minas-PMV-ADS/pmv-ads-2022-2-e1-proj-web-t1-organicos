@@ -2,9 +2,27 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Nesta seção vamos apresentar os diferentes cenários de testes utilizados na realização dos testes de nosso site sobre produtos orgânicos. O site ainda não foi hospedado em um servidor, então alguns requisitos funcionais e não funcionais não foram testados. Porém, para a próxima entrega esses RF e RNF serão devidadamente testados.
+Nesta seção vamos apresentar os diferentes cenários de testes utilizados na realização dos testes de nosso site sobre produtos orgânicos. O site ainda não foi hospedado em um servidor, então alguns requisitos funcionais e não funcionais não foram testados. Porém, para a próxima entrega esses RF e RNF serão devidadamente analisados e testados.
+
+## Funcionalidades que serão testadas
+
+|Funcionalidades     | Comportamento esperado |Verificações|
+|--------------------|------------------------------------|----------------------------------------|
+|RF-01           | O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras fontes externas (sources e backlinks)| Acesso dos links externos|
+|RF-03       | O site deve permitir visualizar as informações de contatos do mantenedor do site| Visualizar o perfil dos desenvolvedores do site | 
+|RF-07       | O site deve permitir que usuários comentem na página de informação sobre um determinado produto orgânico| Ao realizar login o usuário pode realizar comentário. 
+|RF-08       | O site deve exibir os comentários registrados juntamente com a informação sobre o produto orgânico| Os comentários devem ser exibidos adequadamente na página comentada.
+|RF-09       | O site deve permitir o cadastro do usuário por meio de formulário para receber notificações de atualização de conteúdo| Cadastramento do usuário
+|RF-12       | O site deve apresentar, para cada produto orgânico, uma imagem correspondente (thumbnail)| As imagens são visíveis e corresponde ao produto orgânico específicado.
+|RF-13       | O site deve permitir manutenções constantes, as quais envolverão principalmente atualizações de informações sobre os produtos orgânicos| Facilidade de atualização de informações e imagens por meio dos arquivos HTML e css.
 
 
+## Funcionalidades não testadas
+
+|Funcionalidades     | Comportamento esperado |Verificações|
+|--------------------|------------------------------------|----------------------------------------|
+|RF-04           | O site deve permitir o compartilhamento das informações visualizadas em plataformas de redes sociais (links ou botões).| Nas redes sociais é possível acessar a informação compartilhada
+|RF-03       | O site deve permitir visualizar as informações de contatos do mantenedor do site| Visualizar o perfil dos desenvolvedores do site | 
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 
