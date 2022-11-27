@@ -162,19 +162,6 @@ Estrutura do HTML:
 ![Cabeçalho padrão do site - homepage](/src/img/código/cabeçalhohtml.png)  
 ##### *Figura 21 - Cabeçalho do site com os itens de navegação*
 
-![slider - homepage](/src/img/código/cabeçalhohtml.png)  
-##### *Figura 22 - HTML do cabeçalho do site*
-
-![slider - homepage](/src/img/código/sliderhtml.png)  
-##### *Figura 23 - HTML do Slider do site*
-
-![navegação - homepage](/src/img/código/navegaçãohtml.png)  
-##### *Figura 24 - HTML dos itens de navegação do site*
-
-![Destaues - homepage](/src/img/código/destaqueshtml.png)  
-##### *Figura 25 - HTML dos destaques*
-
-
 
 **2 - Sobre o site** 
 
@@ -370,11 +357,6 @@ Artefatos da funcionalidade:
 -	Bootstrap.js;
 -	Custom.js.
 
-Estrutura do HTML:
-
-![Artigos sobre produtos - produtos](/src/img/código/contatohtml.png)  
-##### *Figura 32 - HTML da página com formulário de contato e mapa de localização.
-
 **5 - Rodapé do site e redes sociais** 
 
 Tela de rodapé:
@@ -426,11 +408,6 @@ Estrutura do HTML:
 
 ![icones - rodapé](/src/img/código/rodapehtml.png)  
 ##### *Figura 34 - HTML do rodapé padrão do site.
-
-![img - rede social](/src/img/código/redesocialhtml.png)  
-##### *Figura 35 - HTML das redes sociais (sem links por enquanto).
-
-
 
 
 
