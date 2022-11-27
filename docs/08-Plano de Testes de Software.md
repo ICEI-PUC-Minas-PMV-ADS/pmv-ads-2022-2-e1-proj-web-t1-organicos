@@ -23,8 +23,6 @@ Nesta seção vamos apresentar os diferentes cenários de testes utilizados na r
 |--------------------|------------------------------------|----------------------------------------|
 |RNF-02          | O site deverá ser responsivo permitindo a visualização em computadores, celulares ou tablets de diferentes tamanho| Adaptam o tamanho página ao tamanho das telas que estão sendo exibidos|
 |RNF-03          | O site deve permitir uma boa visualização dos elementos da página| Todos os elementos da página são visíveis e nítidos
-|RNF-05       | O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3)| As páginas do site são dinâmicas e adotam um visual moderno| 
-|RNF-09       | O site deve apresentar um layout moderno e padronizado seguindo as recomendações da W3C| O design e estilo do site são modernos 
 
 # Modelos de Casos de testes
 Na tabela abaixo apresentamos o modelo de casos de testes que vamos empregar em nosso projeto
