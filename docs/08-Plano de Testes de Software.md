@@ -9,6 +9,7 @@ Nesta seção vamos apresentar os diferentes cenários de testes utilizados na r
 |Funcionalidades     | Comportamento esperado |Verificações|
 |--------------------|------------------------------------|----------------------------------------|
 |RF-01           | O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras fontes externas (sources e backlinks)| Acesso dos links externos|
+|RF-02           | O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um produto específico que será informado na caixa de pesquisa| O ícone pesquisar visível
 |RF-03       | O site deve permitir visualizar as informações de contatos do mantenedor do site| Visualizar o perfil dos desenvolvedores do site | 
 |RF-07       | O site deve permitir que usuários comentem na página de informação sobre um determinado produto orgânico| Ao realizar login o usuário pode realizar comentário. 
 |RF-08       | O site deve exibir os comentários registrados juntamente com a informação sobre o produto orgânico| Os comentários devem ser exibidos adequadamente na página comentada.
@@ -16,21 +17,31 @@ Nesta seção vamos apresentar os diferentes cenários de testes utilizados na r
 |RF-12       | O site deve apresentar, para cada produto orgânico, uma imagem correspondente (thumbnail)| As imagens são visíveis e corresponde ao produto orgânico específicado.
 |RF-13       | O site deve permitir manutenções constantes, as quais envolverão principalmente atualizações de informações sobre os produtos orgânicos| Facilidade de atualização de informações e imagens por meio dos arquivos HTML e css.
 
-
-## Funcionalidades não testadas
+## Requisitos não funcionais que serão testados
 
 |Funcionalidades     | Comportamento esperado |Verificações|
 |--------------------|------------------------------------|----------------------------------------|
-|RF-04           | O site deve permitir o compartilhamento das informações visualizadas em plataformas de redes sociais (links ou botões).| Nas redes sociais é possível acessar a informação compartilhada
-|RF-03       | O site deve permitir visualizar as informações de contatos do mantenedor do site| Visualizar o perfil dos desenvolvedores do site | 
+|RNF-02          | O site deverá ser responsivo permitindo a visualização em computadores, celulares ou tablets de diferentes tamanho| Adaptam o tamanho página ao tamanho das telas que estão sendo exibidos|
+|RNF-03          | O site deve permitir uma boa visualização dos elementos da página| Todos os elementos da página são visíveis e nítidos
+|RNF-05       | O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3)| As páginas do site são dinâmicas e adotam um visual moderno| 
+|RNF-09       | O site deve apresentar um layout moderno e padronizado seguindo as recomendações da W3C| O design e estilo do site são modernos 
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
-
-É possível verificar se a sua solução funciona conforme o esperado, executando testes em entidades e eventos. Em cenários de teste, é possível carregar entidades e enviar eventos a partir de um único arquivo e, então, gravar testes que verificam os valores das entidades, os atributos de entidade e os eventos em seu servidor.
  
-## Ferramentas de Testes (Opcional)
+## Estratégia de Testes 
 
-Comente sobre as ferramentas de testes utilizadas.
+Serão executados os seguintes testes: 
+
+
+ - Teste de Caixa Preta: Este é um teste onde não é necessário conhecer sobre a implementação e/ou arquitetura do software, são desconsideradas as análises de códigos fontes, focando nas funcionalidades do ponto de vista do usuário. Este teste foi escolhido porque permite visualizar a manifestação de bugs em tempo de execução da aplicação. Além disso, ele fornece uma visão de métricas de eficiência e eficácia com base na perspectiva da experiência trazida pelo uso, ou seja, o contato do usuário/tester com a aplicação já fornece uma visão geral sobre o comportamento do jogo. As funcionalidades serão testadas sob uma visão de alto nível para identificar se cada uma delas cumpre sua função dentro do site. 
+ - Testes Manuais: Estes testes permitem a exploração de situações em diferentes ambientes. Visa a avaliação do design, a funcionalidade e o desempenho da aplicação. Todas as funcionalidades serão testadas manualmente. Este teste será executado junto aos testes de caixa preta. Ele foi escolhido por permitir os testes em condições semelhantes quando o sistema estiver em produção e por requerer baixo investimento por não precisar de ferramentas caras ou habilidades de alto nível para ser executado. Além disso, ele permite uma análise criteriosa e a possibilidade de avaliação com base em raciocínio e interpretação de caso a caso, aproveitando a capacidade humana de identificar, analisar e diagnosticar problemas. Nesta etapa, todos os testes que puderem ser automatizados serão testados manualmente. 
+
+
+Vale ressaltar que neste momento não vamos utilizar testes automatizados e nem ferramentas de testes, porém estes serão usados durantes a finalização da próxima etapa do projeto.
+
+##	Classificação de Bugs
+
+Os Bugs serão classificados com as seguintes severidades:
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
