@@ -42,11 +42,14 @@ Vale ressaltar que neste momento não vamos utilizar testes automatizados e nem 
 
 Os Bugs serão classificados com as seguintes severidades:
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|ID     | Nível de severidade |Descrição|
+|--------------------|------------------------------------|----------------------------------------|
+|1          | Gravíssimo| ●	Bug que bloqueia o teste da função ou gere crash na aplicação (site travar, mensagens sequências erros, perda do acesso); Botão não exerce a função determinada na modelagem, impossibilitando a aplicação dos testes da sua funcionalidade.
+|2          | Grave| A funcionalidade não cumpre a sua função como esperado; Os Inputs não correspondem com as entradas. 
+|3       | Moderado| Mensagens de erro ou de sair ou voltar no site; nem todas as funcionalidades do site são observadas; As funções não atingem todos os critérios de aceitação e não comprometerem a experiência final do usuário.
+|4       | Pequena| Erros na interface do site; Erros ortográficos na parte visual do site; Presença de pequenos bugs que não atrapalham os objetivos das ferramentas.
+
+
+
+
+
