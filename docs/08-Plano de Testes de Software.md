@@ -44,7 +44,7 @@ Os Bugs serão classificados com as seguintes severidades:
 
 |ID     | Nível de severidade |Descrição|
 |--------------------|------------------------------------|----------------------------------------|
-|1          | Gravíssimo| ●	Bug que bloqueia o teste da função ou gere crash na aplicação (site travar, mensagens sequências erros, perda do acesso); Botão não exerce a função determinada na modelagem, impossibilitando a aplicação dos testes da sua funcionalidade.
+|1          | Gravíssimo| Bug que bloqueia o teste da função ou gere crash na aplicação (site travar, mensagens sequências erros, perda do acesso); Botão não exerce a função determinada na modelagem, impossibilitando a aplicação dos testes da sua funcionalidade.
 |2          | Grave| A funcionalidade não cumpre a sua função como esperado; Os Inputs não correspondem com as entradas. 
 |3       | Moderado| Mensagens de erro ou de sair ou voltar no site; nem todas as funcionalidades do site são observadas; As funções não atingem todos os critérios de aceitação e não comprometerem a experiência final do usuário.
 |4       | Pequena| Erros na interface do site; Erros ortográficos na parte visual do site; Presença de pequenos bugs que não atrapalham os objetivos das ferramentas.
