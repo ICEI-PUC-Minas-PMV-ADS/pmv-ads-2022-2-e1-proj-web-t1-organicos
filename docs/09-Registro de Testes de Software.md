@@ -4,15 +4,66 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-## Avaliação
+## Avaliação 
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+### Testes realizados (Caio)
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+|ID do caso de teste    | CT 01 - Visualizar informações dos desenvolvedores do site| 
+|-------|-------------------------|
+| Requisitos Associados |RF-03 |  
+| Objetivo do Teste | Verificar se é exibido corretamente as informações sobre os desenvolvedores do site|
+| Passos | 1) Ir na barra de navegação e clicar em desenvolvedores 2) Verificar se as informações dos desenvolvedores estão sendo exibidas corretamente 3) Testar se a classe carrousel está funcionando em exibir corretamente o perfil dos desenvolvedores |
+| Resultados|As informações sobre os desenvolvedores estão sendo exibidas corretamente. Ao clicar no botão próximo é exibido a foto e as informações do próximo desenvolvedor e ao clicar no botão anterior é exibido a foto e as informações do desenvolvedor anterior. Esta página não apresentou nenhum bug.| 
+
+ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa| 
+|-------|-------------------------|
+| Requisitos Associados |RF-02 |  
+| Objetivo do Teste | Verificar se o botão de pesquisar está funcionando na página|
+| Passos | 1) clicar em pesquisar e digitar algum item para busca|
+| Resultados|O botão e o campo pesquisar não estão funcionando corretamente. Ao clicar no ícone não aparece nenhum campo de pesquisa. É necessário implementar essa funcionalidade no HTML e Js. De acordo com nossa classificação de bug esse é um bug grave, porém fácil de implementar. |
 
 
+|ID do caso de teste    | CT 03 - Realização de manutenção constante no site| 
+|-------|-------------------------|
+| Requisitos Associados |RF-13 |  
+| Objetivo do Teste | Verificar o site permite manutenções constantes|
+| Passos | Verificar se os arquivos HTML, CSS e Js podem ser atualizados sem nenhum impedimento|
+| Resultados|O site presenta facilidade de atualização de informações e imagens por meio dos arquivos HTML e CSS| 
 
+|ID do caso de teste    | CT 04 - Responsividade do site| 
+|-------|-------------------------|
+| Requisitos Associados |RNF-02|  
+| Objetivo do Teste | Verificar a responsividade do site|
+| Passos | Alterar as dimensões da tela e observar se o site se adapta as variações das dimensões da tela|
+| Resultados|O site é responsivo e não perde a formatação de layout em diferentes tamanho de telas.| 
+
+|ID do caso de teste    | CT 05 - Visualização dos elementos da página| 
+|-------|-------------------------|
+| Requisitos Associados |RNF-02|  
+| Objetivo do Teste | Verificar os elementos da página são vísiveis|
+| Passos | Visualizar se os elementos das páginas são nitídos, mesmo em diferentes tamanho de telas|
+| Resultados|Todos os elementos da página são visíveis e nítidos.|
+
+ 
+|ID do caso de teste    | CT 05 - Visualização dos elementos da página| 
+|-------|-------------------------|
+| Requisitos Associados |RNF-02|  
+| Objetivo do Teste | Verificar os elementos da página são vísiveis|
+| Passos | Visualizar se os elementos das páginas são nitídos, mesmo em diferentes tamanho de telas|
+| Resultados|Todos os elementos da página são visíveis e nítidos.|
+
+
+## Requisitos não funcionais que serão testados
+
+|Requisitos   | Comportamento esperado |Verificações|
+|--------------------|------------------------------------|----------------------------------------|
+|RNF-02          | O site deverá ser responsivo permitindo a visualização em computadores, celulares ou tablets de diferentes tamanho| Adaptam o tamanho página ao tamanho das telas que estão sendo exibidos|
+|RNF-03          | O site deve permitir uma boa visualização dos elementos da página| Todos os elementos da página são visíveis e nítidos
+|RNF-05       | O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3)| As páginas do site são dinâmicas e adotam um visual moderno| 
+|RNF-09       | O site deve apresentar um layout moderno e padronizado seguindo as recomendações da W3C| O design e estilo do site são modernos 
+
+
+### Testes realizados (Letícia)
 |Caso de Teste    | CT-01 - Visualizar links externos  | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-01 - O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras bibliografias de fontes externas (sources e backlinks). |  |
