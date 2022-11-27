@@ -47,24 +47,15 @@ ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa|
  
 |ID do caso de teste    | CT 05 - Visualização dos elementos da página| 
 |-------|-------------------------|
-| Requisitos Associados |RNF-02|  
+| Requisitos Associados |RNF-03|  
 | Objetivo do Teste | Verificar os elementos da página são vísiveis|
 | Passos | Visualizar se os elementos das páginas são nitídos, mesmo em diferentes tamanho de telas|
 | Resultados|Todos os elementos da página são visíveis e nítidos.|
 
 
-## Requisitos não funcionais que serão testados
-
-|Requisitos   | Comportamento esperado |Verificações|
-|--------------------|------------------------------------|----------------------------------------|
-|RNF-02          | O site deverá ser responsivo permitindo a visualização em computadores, celulares ou tablets de diferentes tamanho| Adaptam o tamanho página ao tamanho das telas que estão sendo exibidos|
-|RNF-03          | O site deve permitir uma boa visualização dos elementos da página| Todos os elementos da página são visíveis e nítidos
-|RNF-05       | O site deve apresentar páginas dinâmicas com interatividade entre o usuário o sistema (empregar Javascript juntamente com HTML5 e CSS3)| As páginas do site são dinâmicas e adotam um visual moderno| 
-|RNF-09       | O site deve apresentar um layout moderno e padronizado seguindo as recomendações da W3C| O design e estilo do site são modernos 
-
 
 ### Testes realizados (Letícia)
-|Caso de Teste    | CT-01 - Visualizar links externos  | |
+|Caso de Teste    | CT-06 - Visualizar links externos  | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-01 - O site deve oferecer links externos que permitam ao usuário visualizar as notícias, artigos e outras bibliografias de fontes externas (sources e backlinks). |  |
 | Objetivo do Teste | Verificar se as fontes de notícias externos estão funcionando | |
@@ -74,7 +65,7 @@ ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa|
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste01.png)  
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste02.png) 
 
-|Caso de Teste    | CT-02 - Visualizar comentários   | |
+|Caso de Teste    | CT-07 - Visualizar comentários   | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-07: O site deve permitir que usuários comentem na página de informação sobre um determinado produto orgânico;
 RF-08: O site deve exibir os comentários registrados juntamente com a informação sobre o produto orgânico
@@ -85,7 +76,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 
  ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste03.png)  
 
-|Caso de Teste    | CT-03 – Botão de buscar/pesquisar  | |
+|Caso de Teste    | CT-08 – Botão de buscar/pesquisar  | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-02: O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um produto específico que será informado na caixa de pesquisa. |  |
 | Objetivo do Teste | Verificar se o botão de pesquisar está aparecendo na página | |
@@ -94,7 +85,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste04.png) 
 
-|Caso de Teste    | CT-04 – Visualizar informações principais  | |
+|Caso de Teste    | CT-09 – Visualizar informações principais  | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-12 - O site deve apresentar, para cada produto orgânico, uma imagem correspondente (thumbnail). |  |
 | Objetivo do Teste | Verificar se a carga de notícias está acontecendo corretamente | |
@@ -106,7 +97,7 @@ RF-08: O site deve exibir os comentários registrados juntamente com a informaç
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste06.png)
 ![Resultado](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e1-proj-web-t1-organicos/blob/main/src/img/telas/teste12.png)
 
-|Caso de Teste    | CT-05 – Permitir cadastro de usuário  | |
+|Caso de Teste    | CT-10 – Permitir cadastro de usuário  | |
 |-------|-------------------------|----|
 | Requisitos Associados | RF-09 - O site deve permitir o cadastro do usuário para receber notificações de atualização de conteúdo. |  |
 | Objetivo do Teste |Verificar se o cadastro de usuário está funcionando corretamente | |
