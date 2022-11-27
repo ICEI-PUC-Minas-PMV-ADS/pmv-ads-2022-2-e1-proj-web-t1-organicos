@@ -15,12 +15,18 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 | Passos | 1) Ir na barra de navegação e clicar em desenvolvedores 2) Verificar se as informações dos desenvolvedores estão sendo exibidas corretamente 3) Testar se a classe carrousel está funcionando em exibir corretamente o perfil dos desenvolvedores |
 | Resultados|As informações sobre os desenvolvedores estão sendo exibidas corretamente. Ao clicar no botão próximo é exibido a foto e as informações do próximo desenvolvedor e ao clicar no botão anterior é exibido a foto e as informações do desenvolvedor anterior. Esta página não apresentou nenhum bug.| 
 
+![Resultado](/src/img/dev1.png) 
+![Resultado](/src/img/dev2.png) 
+
 ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa| 
 |-------|-------------------------|
 | Requisitos Associados |RF-02 |  
 | Objetivo do Teste | Verificar se o botão de pesquisar está funcionando na página|
 | Passos | 1) clicar em pesquisar e digitar algum item para busca|
 | Resultados|O botão e o campo pesquisar não estão funcionando corretamente. Ao clicar no ícone não aparece nenhum campo de pesquisa. É necessário implementar essa funcionalidade no HTML e Js. De acordo com nossa classificação de bug esse é um bug grave, porém fácil de implementar. |
+
+![Resultado](/src/img/navpesquisa.png) 
+
 
 
 |ID do caso de teste    | CT 03 - Realização de manutenção constante no site| 
@@ -30,6 +36,9 @@ ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa|
 | Passos | Verificar se os arquivos HTML, CSS e Js podem ser atualizados sem nenhum impedimento|
 | Resultados|O site presenta facilidade de atualização de informações e imagens por meio dos arquivos HTML e CSS| 
 
+![Resultado](/src/img/manutenção.png) 
+
+
 |ID do caso de teste    | CT 04 - Responsividade do site| 
 |-------|-------------------------|
 | Requisitos Associados |RNF-02|  
@@ -37,6 +46,11 @@ ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa|
 | Passos | Alterar as dimensões da tela e observar se o site se adapta as variações das dimensões da tela|
 | Resultados|O site é responsivo e não perde a formatação de layout em diferentes tamanho de telas.| 
 
+![Resultado](/src/img/resp1.png) 
+
+![Resultado](/src/img/resp2.png) 
+
+
 |ID do caso de teste    | CT 05 - Visualização dos elementos da página| 
 |-------|-------------------------|
 | Requisitos Associados |RNF-02|  
@@ -44,14 +58,10 @@ ID do caso de teste    | CT 02 - Funcionalidade de filtro e caixa de pesquisa|
 | Passos | Visualizar se os elementos das páginas são nitídos, mesmo em diferentes tamanho de telas|
 | Resultados|Todos os elementos da página são visíveis e nítidos.|
 
- 
-|ID do caso de teste    | CT 05 - Visualização dos elementos da página| 
-|-------|-------------------------|
-| Requisitos Associados |RNF-03|  
-| Objetivo do Teste | Verificar os elementos da página são vísiveis|
-| Passos | Visualizar se os elementos das páginas são nitídos, mesmo em diferentes tamanho de telas|
-| Resultados|Todos os elementos da página são visíveis e nítidos.|
+![Resultado](/src/img/elem1.png) 
 
+![Resultado](/src/img/elem2.png) 
+ 
 
 
 ### Testes realizados (Letícia)
