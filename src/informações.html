@@ -17,6 +17,9 @@
   <!-- slider stylesheet -->
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
 
+  <!-- reset css -->
+  <link rel="stylesheet" type="text/css" href="css/reset.css" />
+
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
 
@@ -26,6 +29,8 @@
   <link href="css/style.css" rel="stylesheet" />
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
+
+ 
 </head>
 
 <body class="sub_page">
@@ -34,7 +39,7 @@
     <div class="brand_box">
       <a class="navbar-brand" href="index.html">
         <span>
-          <!-- Produtos Orgânicos -->
+          Produtos orgânicos
         </span>
       </a>
     </div>
@@ -62,10 +67,10 @@
                   <a class="nav-link" href="about.html">Sobre o site </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="fruit.html">Produtos </a>
+                  <a class="nav-link" href="informações.html">Produtos </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="noticiash.html">Noticiais</a> <!-- precisamos criar essa página de HTML, pois ela ainda não existe-->
+                  <a class="nav-link" href="noticiash.html">Noticias</a> <!-- precisamos criar essa página de HTML, pois ela ainda não existe-->
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="testimonial.html">Desenvolvedores</a>
@@ -74,8 +79,9 @@
                   <a class="nav-link" href="contact.html">Contato</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">Login</a>
+                  <a class="nav-link" href="cadastro">Criar conta</a>
                 </li>
+                
               </ul>
               <form class="form-inline my-2 my-lg-0 ml-0 ml-lg-4 mb-3 mb-lg-0">
                 <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit"></button>
@@ -250,7 +256,7 @@
       observados e levados em consideração:
      </p>
      <img src="./img/foto3.jpg" class="img3" alt="produtos orgânicos">
-        <ul>
+        <ul class="lista-cultivo">
             <li>Em relação à propriedade (quantidade e qualidade da água, respeitar as leis ambientais, barreiras vegetais);</li>
             <li>Seleção sobre as atividades a serem desenvolvidas, assistência técnica, escolha do tipo de certificação e a certificadora;</li>
             <li>Seguir práticas recomendadas para a produção orgânica, como o preparo da área;</li>
@@ -326,37 +332,36 @@
   <br>
   <br>
   <br>
-  </div>   
+   
   
   <!-- Inicio da seção sobre comentários do site -->
   
-  <section id="testmony-container">
-    <div class="wrapper">  
-      <h2>Veja o que estão dizendo sobre o site:</h2>
+  <div class="comentarios-geral">
+
+    <h3>Veja o que estão dizendo sobre o site:</h3>
+
+     <ul class="comentarios">
+      
+        <li>
+          <h4>Mateus Silva</h4>
+          <p class="comentario-usuario">Eu gostei muito do site, me ajudou muito com as minhas receitas.</p>
+        </li>
+        <li>
+          <h4>Clarisse Rumford</h4>
+          <p class="comentario-usuario">Agora posso fazer cárdapios mais variados e saudáveis. E melhoro a minha alimentação.</p>
+        </li>
+        <li>
+          <h4>Maria da Conceição</h4>
+          <p class="comentario-usuario">Agora consigo encontrar mais informações sobre os produtos da minha região.</p>
+        </li>
+     </ul>
+
+     <!--a href="cadastro_comentario.html" target="_blank">Deixe o seu comentário.</a>
+
+  </div>
+
   
-      <div class="testmony-box">
-        <img src="./img/pessoa1.png">
-       
-        <p class="testmony-name">Mateus Silva</p>
-        <p class="testmony-msg">Eu gostei muito do site, me ajudou muito com as minhas receitas.</p>
-       
-      </div>
-      <div class="testmony-box">
-        <img src="./img/pessoa2.png">
-       
-        <p class="testmony-name">Clarisse Rumford</p>
-        <p class="testmony-msg">Agora posso fazer cárdapios mais variados e saudáveis.</p>
-       
-      </div>
-      <div class="testmony-box">
-        <img src="./img/pessoa3.png">
-        <p class="testmony-name">Maria da Conceição</p>
-        <p class="testmony-msg">Agora consigo encontrar mais informações sobre os produtos da minha região.</p>
-       
-      </div>
-    </div>
-  </section>
-  
+</div>   
    
   <!-- Fim da seção sobre comentários do site -->
 
@@ -395,6 +400,7 @@
               </span>
             </a>
           </div>
+         
         </div>
       </div>
       <div class="row">
