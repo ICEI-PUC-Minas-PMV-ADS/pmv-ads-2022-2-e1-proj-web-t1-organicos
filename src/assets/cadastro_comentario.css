@@ -1,0 +1,15 @@
+.cadastro__descricao {
+    height: 15.75rem;
+}
+
+.cadastro__preco-container, .cadastro__descricao-container {
+    width: 50%;
+}
+
+.titulo {
+    text-align: center;
+    margin: 20px 20px;
+    padding: 10px 10px;
+    color: black;
+    font-size: 25px;
+}
