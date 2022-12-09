@@ -10,7 +10,7 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 
 Exemplo: 
 
-![Diagrama de Componentes](/docs/img/organicocomponentes.jpg)
+![Diagrama de Componentes](/src/img/diagramasolução.png)
 <center>Figura 2 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
