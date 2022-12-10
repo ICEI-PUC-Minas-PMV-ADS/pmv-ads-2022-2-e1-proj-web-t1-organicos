@@ -8,7 +8,7 @@
 
 
 
-![Logo do site](/docs/img/logosite2.png)  
+![Logo do site](src/img/logosite3.png)  
 
 O presente projeto busca desenvolver um website com informações frequentemente atualizadas sobre os principais produtos orgânicos alimentícios produzidos em determinadas regiões.  Além disso, este website incluirá informações detalhadas sobre agricultura orgânica, agroecologia e sobre os problemas causados por uso de agrotóxicos.   
 
