@@ -9,7 +9,7 @@ O projeto tem uma identidade visual padronizada em todas as telas que são proje
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe. Na figura abaixo é exibido o fluxo do usuário proposto para os usuários do site sobre produtos orgânicos.
 
-![Fluxo do Usuário](img/userflow02.png)
+![Fluxo do Usuário](/src/img/fluxodousuarioatual.png)
 
 > **Links que foram consultados**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
@@ -39,27 +39,26 @@ De acordo com o fluxo de telas do projeto, apresentado anteriormente, as telas d
 Nas figuras abaixo são apresentados os principais wireframes (não todos) baseados no fluxo do usuário e site map desenvolvidos nesta seção. 
 
 
-![Home Page](/docs/img/wireframes/homepage.png)
+![Home Page](/src/img/telas/homepage.png)
 **Figura 3 - Home page**
 
 
-![Informações](/docs/img/wireframes/infoeconteudo.png)
-**Figura 4 - Informações**
+![Informações](/src/img/telas/sobreosite.png)
+**Figura 4 - Informações sobre o site**
 
 
 
-![Notícias](/docs/img/wireframes/noticias.png)
-**Figura 5 - Notícias**
+![Notícias](/src/img/telas/artigoleparte1.png)
+**Figura 5 -Artigos sobre produtos orgânicos**
 
 
 
-![Salvar](/docs/img/wireframes/noticiasfavorita.png)
-**Figura 6 - Notícias favoritas**
+![Salvar](/src/img/telas/noticias.png)
+**Figura 6 - Notícias linkdas**
 
 
 
-![Resultado da pesquisa](/docs/img/wireframes/resultadopesquisa.png)
- **Figura 7- Resultado da pesquisa**
+
 
 
  
