@@ -43,7 +43,7 @@ O presente projeto busca desenvolver um website com informações frequentemente
 
 # Hospedagem
 
-* O endereço eletrônico será disponibilizado em Breve.
+* https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-2-e1-proj-web-t1-organicos/src/).
 
 # Armazenamento do Código-Fonte
 
