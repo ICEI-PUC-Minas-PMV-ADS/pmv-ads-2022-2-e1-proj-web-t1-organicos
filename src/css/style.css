@@ -748,6 +748,7 @@ a:focus {
 .img5 {
     float: left;
 	margin: 10px;
+	width: 10px;
 }
 
 /*Tive que tirar seu h1 pois estava ficando sem formatação o texto
