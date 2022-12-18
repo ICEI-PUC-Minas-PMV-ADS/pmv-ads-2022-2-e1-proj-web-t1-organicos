@@ -725,16 +725,36 @@ a:focus {
 
 /* a partir daqui é o css da Letícia */
 
-.img3 {
-  float: left;
-  margin: 10px;
-  width: 25%;
+.img1 {
+    float: left;
+	margin: 10px;
 }
 
+.img2 {
+    float: left;
+	margin: 10px;
+}
+
+.img3 {
+    float: left;
+	margin: 10px;
+}
 
 .img4 {
-  float: left;
-  width: 10%;
+    float: left;
+	margin: 10px;
+}
+
+.img5 {
+    float: left;
+  margin: 10px;
+  width: 20%;
+}
+
+.img6 {
+   float: left;
+   margin: 10px;
+   width: 25%;
 }
 
 .lista-cultivo li {
