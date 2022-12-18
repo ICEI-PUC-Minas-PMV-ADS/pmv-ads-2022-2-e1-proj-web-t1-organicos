@@ -754,7 +754,7 @@ a:focus {
 .img6 {
    float: left;
    margin: 10px;
-   width: 10%;
+   width: auto;
 }
 
 .lista-cultivo li {
