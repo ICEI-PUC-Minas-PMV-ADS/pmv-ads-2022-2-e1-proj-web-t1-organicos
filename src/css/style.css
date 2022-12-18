@@ -725,6 +725,11 @@ a:focus {
 
 /* a partir daqui é o css da Letícia */
 
+.img3 {
+  float: left;
+  margin: 10px;
+}
+
 
 .img4 {
   float: left;
