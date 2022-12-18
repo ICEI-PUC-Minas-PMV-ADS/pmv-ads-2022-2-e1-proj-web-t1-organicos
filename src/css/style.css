@@ -727,10 +727,9 @@ a:focus {
 
 
 .img4 {
-   float: left;
-	width: 10%;
-}	
-	
+  float: left;
+  width: 10%;
+}
 
 .lista-cultivo li {
     text-align: justify;
